@@ -1,0 +1,21 @@
+c:\users\s.e\documents\visual studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\bin\Debug\ThreadHomeWork.exe.config
+c:\users\s.e\documents\visual studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\bin\Debug\ThreadHomeWork.exe
+c:\users\s.e\documents\visual studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\bin\Debug\ThreadHomeWork.pdb
+c:\users\s.e\documents\visual studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.csprojResolveAssemblyReference.cache
+c:\users\s.e\documents\visual studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.Form1.resources
+c:\users\s.e\documents\visual studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.Properties.Resources.resources
+c:\users\s.e\documents\visual studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.csproj.GenerateResource.Cache
+c:\users\s.e\documents\visual studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.exe
+c:\users\s.e\documents\visual studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.pdb
+C:\Users\dincer\Desktop\New folder\ThreadHomeWork\ThreadHomeWork\bin\Debug\ThreadHomeWork.exe.config
+C:\Users\dincer\Desktop\New folder\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.exe
+C:\Users\dincer\Desktop\New folder\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.pdb
+C:\Users\dincer\Documents\Visual Studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\bin\Debug\ThreadHomeWork.exe.config
+C:\Users\dincer\Documents\Visual Studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.exe
+C:\Users\dincer\Documents\Visual Studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.pdb
+C:\Users\dincer\Documents\Visual Studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\bin\Debug\ThreadHomeWork.exe
+C:\Users\dincer\Documents\Visual Studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\bin\Debug\ThreadHomeWork.pdb
+C:\Users\dincer\Documents\Visual Studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\dincer\Documents\Visual Studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.Form1.resources
+C:\Users\dincer\Documents\Visual Studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.Properties.Resources.resources
+C:\Users\dincer\Documents\Visual Studio 2012\Projects\ThreadHomeWork\ThreadHomeWork\obj\Debug\ThreadHomeWork.csproj.GenerateResource.Cache
